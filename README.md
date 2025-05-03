@@ -43,19 +43,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-ng&show_icons=true&theme=github_dark" alt="Ramkumar's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamkumarNG&show_icons=true&theme=github_dark" alt="Ramkumar's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-ng&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamkumarNG&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramkumar-ng&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamkumarNG&theme=darkhub" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramkumar-ng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RamkumarNG&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
